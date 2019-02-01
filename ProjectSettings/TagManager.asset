@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - bg
+  - tile
+  - component
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: bg
+    uniqueID: 1075536673
+    locked: 0
+  - name: tile
+    uniqueID: 3530077037
+    locked: 0
+  - name: component
+    uniqueID: 3147929875
     locked: 0
